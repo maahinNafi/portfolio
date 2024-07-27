@@ -13,7 +13,6 @@ Welcome to my personal portfolio website! This site showcases my work, skills, a
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- 
 ## Usage
 
 To view the site, simply visit maahinnafi.com. If you want to explore the code or run it locally, follow these steps:
